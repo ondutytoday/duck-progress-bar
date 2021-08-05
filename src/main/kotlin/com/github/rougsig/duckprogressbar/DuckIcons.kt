@@ -9,4 +9,4 @@ val RDUCK_ICON by lazy(LazyThreadSafetyMode.NONE) { IconLoader.getIcon("/rduck.p
 
 val DUCK_WIDTH by lazy(LazyThreadSafetyMode.NONE) { JBUI.scale(32) }
 
-val DUCK_COLOR by lazy(LazyThreadSafetyMode.NONE) { Color(0xFFF176) }
+val DUCK_COLOR by lazy(LazyThreadSafetyMode.NONE) { Color(0x5FC3DF) }
